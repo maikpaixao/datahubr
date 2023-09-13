@@ -1,4 +1,4 @@
-# databases hub codes
+# DataHUBR
 the code in this repository is used to generate datasets
 
 ## Dataset Links
