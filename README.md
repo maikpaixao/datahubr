@@ -1,5 +1,5 @@
 # DataHUBR
-the code in this repository is used to generate datasets
+Repositória de dados coletados e sintéticos para análise e processamento de informações.
 
 ## Dataset Links
 
