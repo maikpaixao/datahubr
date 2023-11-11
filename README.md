@@ -1,10 +1,10 @@
 # DataHUBR
-Repositória de dados coletados e sintéticos para análise e processamento de informações.
+Repository of collected and synthetic data for analysis and information processing.
 
 ## Dataset Links
 
-[Dataset - Vendas de Roupas Adidas](datasets/dataset_vendas_adidas.csv)
+[Dataset - Adidas Clothing Sales](datasets/dataset_vendas_adidas.csv)
 
-[Dataset - Churn de Clientes da OI](datasets/dataset_telecom_churn.csv)
+[Dataset - OI Customer Churn](datasets/dataset_telecom_churn.csv)
 
-[Dataset - Score de Crédito](datasets/dataset_banco_credito.csv)
+[Dataset - Credit Score](datasets/dataset_banco_credito.csv)
