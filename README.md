@@ -8,3 +8,5 @@ Repository of collected and synthetic data for analysis and information processi
 [Dataset - OI Customer Churn](datasets/dataset_telecom_churn.csv)
 
 [Dataset - Credit Score](datasets/dataset_banco_credito.csv)
+
+[Dataset - Bank Customers Profiling](datasets/dataset_banco_clientes.csv)
