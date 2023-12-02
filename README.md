@@ -14,3 +14,6 @@ Ideal for researchers and practitioners in data science, this repository also we
 [Dataset - Credit Score](datasets/dataset_banco_credito.csv)
 
 [Dataset - Bank Customers Profiling](datasets/dataset_banco_clientes.csv)
+
+## License
+Creative Commons (CC)
